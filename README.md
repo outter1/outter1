@@ -137,7 +137,6 @@ cybersecurity:
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge\&logo=kalilinux\&logoColor=557C94)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
-![TShark](https://img.shields.io/badge/TShark-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=22D3EE)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge\&logo=burpsuite\&logoColor=FF6633)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge\&logoColor=2596CD)
