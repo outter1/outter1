@@ -8,9 +8,11 @@
   <a href="https://github.com/outter1">
     <img src="https://img.shields.io/badge/GitHub-outter1-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:gabrielsilvabastos@gmail.com">
+
+  <a href="mailto:gabrielsilvabastosgbs@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/gabriel.bstos/">
     <img src="https://img.shields.io/badge/Instagram-gabriel.bstos-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -215,6 +217,7 @@ development:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🛡️ DevSec NetFlow Analyzer
@@ -273,6 +276,7 @@ Desenvolvimento de sistemas administrativos e de controle de estoque para difere
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## ⚙️ Automation and Maintenance
@@ -389,8 +393,8 @@ Entre as atividades realizadas estão:
 
 ### Let's develop secure and innovative solutions.
 
-<a href="mailto:gabrielsilvabastos@gmail.com">
-<img src="https://img.shields.io/badge/Email-gabrielsilvabastos%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:gabrielsilvabastosgbs@gmail.com">
+<img src="https://img.shields.io/badge/Email-gabrielsilvabastosgbs%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/outter1">
