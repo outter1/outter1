@@ -1,18 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0f172a,100:0891b2&section=header&text=GABRIEL%20SILVA%20BASTOS&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Systems%20Development%20%7C%20Secure%20Software&descAlignY=57&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,50:0f172a,100:0891b2&section=header&text=GABRIEL%20SILVA%20BASTOS&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Systems%20Development&descAlignY=57&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=21\&duration=3000\&pause=900\&color=22D3EE\&center=true\&vCenter=true\&width=950\&lines=Cybersecurity+%26+Systems+Development;Blue+Team+%7C+Red+Team+%7C+Digital+Forensics;Python+%7C+PHP+%7C+Laravel+%7C+MySQL;Network+Monitoring+%7C+Automation+%7C+Secure+Software;Develop.+Secure.+Analyze.+Evolve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=21\&duration=3000\&pause=900\&color=22D3EE\&center=true\&vCenter=true\&width=950\&lines=Cybersecurity+%26+Systems+Development;Python+%7C+PHP+%7C+Laravel+%7C+MySQL;Network+Analysis+%7C+Automation+%7C+Web+Systems;Blue+Team+%7C+Pentest+%7C+Digital+Forensics;Develop.+Analyze.+Secure.+Evolve.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/outter1">
     <img src="https://img.shields.io/badge/GitHub-outter1-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:gabrielsilvabastosgbs@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/gabriel.bstos/">
     <img src="https://img.shields.io/badge/Instagram-gabriel.bstos-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -25,71 +23,68 @@
 ## `root@outter1:~$ whoami`
 
 ```text
-Name       : Gabriel Silva Bastos
-Location   : Rio de Janeiro, Brazil
-Education  : Systems Development Technician — SENAI
-Areas      : Cybersecurity and Systems Development
-Focus      : Secure applications, network analysis and automation
-Status     : Learning, developing and evolving
+Name      : Gabriel Silva Bastos
+Location  : Rio de Janeiro, Brazil
+Education : Técnico em Desenvolvimento de Sistemas — SENAI
+Areas     : Desenvolvimento de Sistemas e Cibersegurança
+Focus     : Python, PHP, Laravel, redes e segurança
 ```
 
-Sou estudante de **Desenvolvimento de Sistemas**, desenvolvedor freelancer e entusiasta de **Cibersegurança**.
+Sou estudante de **Desenvolvimento de Sistemas**, competidor da modalidade de **Cibersegurança** e profissional com experiência em suporte técnico.
 
-Tenho experiência com desenvolvimento de sistemas web, painéis administrativos, bancos de dados, automações em Python, manutenção de aplicações PHP, suporte técnico e monitoramento de redes.
+Desenvolvo projetos utilizando **Python, PHP, Laravel, Filament, MySQL e SQLite**, incluindo sistemas administrativos, controle de estoque, automações e ferramentas de análise de tráfego de rede.
 
-Busco unir desenvolvimento e segurança para criar soluções funcionais, organizadas e protegidas.
+Também possuo experiência prática com manutenção de sistemas, computadores, impressoras e redes, além de estudos em segurança ofensiva, defesa de redes e forense digital.
 
 ---
 
-## `root@outter1:~$ achievements --list`
+## `root@outter1:~$ achievement --show`
 
 <div align="center">
 
-### 🥉 WorldSkills Cybersecurity — Bronze Medal
+### 🥉 WorldSkills Cybersecurity — Medalha de Bronze
 
 **3º lugar na etapa estadual do Rio de Janeiro — 2026**
 
 </div>
 
-A participação na WorldSkills fortaleceu meus conhecimentos em:
+A competição fortaleceu meus conhecimentos em:
 
 * Segurança de redes e sistemas;
-* Análise e investigação de incidentes;
-* Blue Team e monitoramento de ameaças;
-* Pentest e identificação de vulnerabilidades;
+* Análise de tráfego;
+* Identificação de vulnerabilidades;
+* Pentest em ambientes controlados;
 * Forense digital;
 * Administração de ambientes Linux;
 * Resolução de problemas sob pressão.
 
 ---
 
-## `root@outter1:~$ areas --current`
+## `root@outter1:~$ knowledge --areas`
 
 ```yaml
-cybersecurity:
-  - Network Security
-  - Blue Team
-  - Red Team
-  - Digital Forensics
-  - Vulnerability Analysis
-  - Traffic Monitoring
-  - Incident Investigation
-
 development:
-  - Web Applications
+  - Web Systems
   - Administrative Panels
-  - Inventory Systems
+  - Inventory Management
   - Database Modeling
-  - Automation Scripts
   - System Maintenance
-  - Secure Software Development
+  - Python Automation
+
+cybersecurity:
+  - Network Analysis
+  - Blue Team Fundamentals
+  - Pentest Fundamentals
+  - Web Security
+  - Digital Forensics
+  - Vulnerability Assessment
 ```
 
 ---
 
 # `TECH STACK`
 
-## `> Programming Languages`
+## `> Languages`
 
 <p>
 
@@ -102,13 +97,12 @@ development:
 
 </p>
 
-## `> Backend and Web Development`
+## `> Web Development`
 
 <p>
 
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
-![Filament](https://img.shields.io/badge/Filament-0D1117?style=for-the-badge\&logo=laravel\&logoColor=F59E0B)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
+![Filament](https://img.shields.io/badge/Filament-0D1117?style=for-the-badge\&logoColor=F59E0B)
 ![Composer](https://img.shields.io/badge/Composer-0D1117?style=for-the-badge\&logo=composer\&logoColor=885630)
 ![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge\&logo=npm\&logoColor=CB3837)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge\&logo=vite\&logoColor=646CFF)
@@ -121,7 +115,6 @@ development:
 
 ![Scapy](https://img.shields.io/badge/Scapy-0D1117?style=for-the-badge\&logo=python\&logoColor=22D3EE)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Tkinter](https://img.shields.io/badge/Tkinter-0D1117?style=for-the-badge\&logo=python\&logoColor=FACC15)
 ![ReportLab](https://img.shields.io/badge/ReportLab-0D1117?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=DC2626)
 ![Pillow](https://img.shields.io/badge/Pillow-0D1117?style=for-the-badge\&logo=python\&logoColor=10B981)
 ![Automation](https://img.shields.io/badge/Automation-0D1117?style=for-the-badge\&logo=python\&logoColor=22D3EE)
@@ -138,46 +131,41 @@ development:
 
 </p>
 
-## `> Cybersecurity and Networking`
+## `> Cybersecurity`
 
 <p>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge\&logo=kalilinux\&logoColor=557C94)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
+![TShark](https://img.shields.io/badge/TShark-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=22D3EE)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge\&logo=burpsuite\&logoColor=FF6633)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge\&logo=metasploit\&logoColor=2596CD)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge\&logoColor=2596CD)
+
+</p>
+
+<p>
+
 ![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=DC2626)
 ![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=22D3EE)
-![Netcat](https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=10B981)
-
-</p>
-
-<p>
-
-![TShark](https://img.shields.io/badge/TShark-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
 ![Enum4linux](https://img.shields.io/badge/Enum4linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge\&logo=linux\&logoColor=22D3EE)
-![Autopsy](https://img.shields.io/badge/Autopsy-0D1117?style=for-the-badge\&logo=linux\&logoColor=F59E0B)
-![FTP](https://img.shields.io/badge/FTP-0D1117?style=for-the-badge\&logo=filezilla\&logoColor=BF0000)
-![SSH](https://img.shields.io/badge/SSH-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=10B981)
-![RDP](https://img.shields.io/badge/RDP-0D1117?style=for-the-badge\&logo=windows\&logoColor=0078D4)
-![NetFlow](https://img.shields.io/badge/NetFlow-0D1117?style=for-the-badge\&logo=cisco\&logoColor=22D3EE)
+![Netcat](https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge\&logo=gnometerminal\&logoColor=10B981)
+![Autopsy](https://img.shields.io/badge/Autopsy-0D1117?style=for-the-badge\&logoColor=F59E0B)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge\&logo=tryhackme\&logoColor=DC143C)
 
 </p>
 
-## `> Operating Systems`
+## `> Operating Systems and Virtualization`
 
 <p>
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge\&logo=kalilinux\&logoColor=557C94)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-0D1117?style=for-the-badge\&logo=linuxmint\&logoColor=87CF3E)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge\&logo=windows11\&logoColor=0078D4)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge\&logo=virtualbox\&logoColor=2F61B4)
 
 </p>
 
-## `> Development and Productivity Tools`
+## `> Development Tools`
 
 <p>
 
@@ -186,28 +174,17 @@ development:
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge\&logo=powershell\&logoColor=5391FE)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 
 </p>
 
+## `> Productivity and Technical Support`
+
 <p>
 
-![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge\&logo=vmware\&logoColor=607078)
-![VirtualBox](https://img.shields.io/badge/Virtualization-0D1117?style=for-the-badge\&logo=virtualbox\&logoColor=183A61)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge\&logo=microsoftoffice\&logoColor=D83B01)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge\&logo=microsoftexcel\&logoColor=217346)
-
-</p>
-
-## `> Currently Learning`
-
-<p>
-
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge\&logo=flutter\&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge\&logo=dart\&logoColor=0175C2)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Cybersecurity](https://img.shields.io/badge/Advanced_Cybersecurity-0D1117?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)
+![Hardware Support](https://img.shields.io/badge/Hardware_Support-0D1117?style=for-the-badge\&logo=windows\&logoColor=22D3EE)
+![Network Support](https://img.shields.io/badge/Network_Support-0D1117?style=for-the-badge\&logo=cisco\&logoColor=1BA0D7)
 
 </p>
 
@@ -217,29 +194,28 @@ development:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🛡️ DevSec NetFlow Analyzer
 
-Ferramenta de monitoramento e análise de tráfego de rede desenvolvida em Python.
+Projeto em Python para monitoramento e análise de tráfego de rede.
 
-### Recursos
+### Funcionalidades
 
 * Captura e análise de pacotes;
 * Organização do tráfego em fluxos;
-* Monitoramento de IPs, portas e protocolos;
+* Visualização de IPs, portas e protocolos;
 * Detecção de comportamentos suspeitos;
-* Alertas de segurança em tempo real;
-* Blacklist de IPs e domínios;
-* Bloqueio de endereços pelo firewall;
-* Histórico de domínios acessados;
-* Exportação de relatórios;
-* Apoio à investigação forense.
+* Geração de alertas;
+* Blacklist de endereços IP;
+* Bloqueio pelo firewall;
+* Armazenamento de dados em SQLite;
+* Exportação de relatórios em PDF;
+* Interface gráfica e interface web.
 
 ### Tecnologias
 
-`Python` `Scapy` `SQLite` `CustomTkinter` `Firewall`
+`Python` `Scapy` `SQLite` `CustomTkinter` `ReportLab`
 
 <p>
 <a href="https://github.com/outter1/DevSec-NetflowAnalyzer">
@@ -253,50 +229,49 @@ Ferramenta de monitoramento e análise de tráfego de rede desenvolvida em Pytho
 
 ## 📦 Administrative Systems
 
-Desenvolvimento de sistemas administrativos e de controle de estoque para diferentes segmentos.
+Projetos de sistemas administrativos e controle de estoque desenvolvidos durante minha formação.
 
-### Recursos
+### Funcionalidades praticadas
 
-* Cadastro e gerenciamento de produtos;
-* Controle de usuários;
-* Entradas e saídas de estoque;
-* Histórico de movimentações;
+* Cadastro de produtos;
+* Controle de estoque;
+* Registro de entradas e saídas;
+* Relacionamentos entre entidades;
+* Dashboards administrativos;
 * Alertas de estoque mínimo;
-* Dashboards e indicadores;
-* Filtros e pesquisas;
-* Relatórios administrativos;
-* Controle de permissões;
-* Banco de dados relacional.
+* Histórico de movimentações;
+* Formulários, tabelas e filtros;
+* Autenticação administrativa;
+* Modelagem de banco de dados.
 
 ### Tecnologias
 
-`Laravel` `Filament` `PHP` `MySQL` `JavaScript`
+`PHP` `Laravel` `Filament` `MySQL`
 
 </td>
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## ⚙️ Automation and Maintenance
+## ⚙️ PHP Maintenance
 
-Automação de tarefas e manutenção de sistemas para melhorar processos internos.
+Experiência prática com análise e manutenção de sistemas PHP existentes.
 
-### Atividades
+### Atividades praticadas
 
-* Manutenção de sistemas PHP;
-* Correção de erros e falhas;
-* Implementação de funcionalidades;
-* Scripts de automação em Python;
-* Integração com bancos de dados;
-* Organização e processamento de dados;
-* Exportação para PDF e planilhas;
-* Análise de código existente.
+* Configuração do ambiente;
+* Correção de problemas de conexão;
+* Análise de erros PHP e MySQL;
+* Ajustes em consultas SQL;
+* Correção de autenticação;
+* Manutenção de funcionalidades existentes;
+* Testes locais;
+* Controle de versões com Git.
 
 ### Tecnologias
 
-`Python` `PHP` `MySQL` `SQLite` `Git`
+`PHP` `MySQL` `HTML` `CSS` `Git`
 
 </td>
 
@@ -304,24 +279,25 @@ Automação de tarefas e manutenção de sistemas para melhorar processos intern
 
 ## 🔍 Cybersecurity Labs
 
-Estudos práticos em laboratórios, desafios e ambientes controlados de cibersegurança.
+Estudos e exercícios realizados exclusivamente em ambientes autorizados e controlados.
 
-### Conhecimentos praticados
+### Atividades praticadas
 
+* Criação e configuração de máquinas virtuais;
+* Montagem de laboratórios com VirtualBox;
 * Enumeração de redes e serviços;
-* Análise de tráfego;
-* Testes em aplicações web;
-* Segurança de protocolos;
-* Análise de vulnerabilidades;
+* Análise de portas e protocolos;
+* Análise de tráfego com Wireshark;
+* Testes de aplicações web;
+* Uso de proxies de interceptação;
+* Enumeração de diretórios;
+* Análise de serviços SMB;
 * Forense digital;
-* Linux e redes;
-* Blue Team e Red Team;
-* Captura e análise de evidências;
-* Exploração em ambientes autorizados.
+* Exploração básica de vulnerabilidades.
 
-### Plataformas e ferramentas
+### Ferramentas
 
-`TryHackMe` `Kali Linux` `Wireshark` `Nmap` `Burp Suite`
+`TryHackMe` `VirtualBox` `Kali Linux` `Nmap` `Wireshark` `Burp Suite`
 
 </td>
 </tr>
@@ -329,23 +305,21 @@ Estudos práticos em laboratórios, desafios e ambientes controlados de ciberseg
 
 ---
 
-## `root@outter1:~$ professional_experience`
+## `root@outter1:~$ experience --show`
 
-Atuo como freelancer prestando serviços relacionados a desenvolvimento, manutenção de sistemas e suporte técnico.
+Atuo com suporte técnico e serviços administrativos, realizando atividades como:
 
-Entre as atividades realizadas estão:
-
-* Desenvolvimento de sistemas e painéis administrativos;
-* Manutenção e correção de aplicações PHP;
-* Criação e gerenciamento de bancos de dados;
-* Desenvolvimento de automações;
-* Suporte técnico a usuários;
-* Manutenção de computadores e impressoras;
-* Configuração e manutenção de redes;
-* Controle de estoque;
-* Organização de documentos e planilhas;
 * Atendimento ao público;
+* Organização de documentos físicos e digitais;
+* Criação e organização de planilhas;
+* Controle de estoque;
+* Manutenção de computadores;
+* Manutenção de impressoras;
+* Suporte a sistemas;
+* Configuração e manutenção básica de redes;
 * Diagnóstico e resolução de problemas técnicos.
+
+Também desenvolvo projetos acadêmicos e pessoais nas áreas de desenvolvimento de sistemas e cibersegurança.
 
 ---
 
@@ -376,13 +350,12 @@ Entre as atividades realizadas estão:
 ## `root@outter1:~$ objectives --list`
 
 ```diff
-+ Aprimorar meus conhecimentos em desenvolvimento seguro
-+ Evoluir nas áreas de Blue Team, Red Team e Forense Digital
-+ Criar sistemas que solucionem problemas reais
-+ Desenvolver ferramentas para monitoramento e segurança
-+ Participar de novos desafios e competições
-+ Trabalhar profissionalmente com tecnologia e cibersegurança
-+ Contribuir com projetos de código aberto
++ Evoluir em desenvolvimento web com PHP e Laravel
++ Aprimorar meus conhecimentos em Python
++ Desenvolver aplicações seguras e bem estruturadas
++ Avançar em redes, Blue Team e pentest
++ Criar projetos que solucionem problemas reais
++ Construir experiência profissional em tecnologia
 ```
 
 ---
@@ -391,7 +364,7 @@ Entre as atividades realizadas estão:
 
 <div align="center">
 
-### Let's develop secure and innovative solutions.
+### Let's develop secure and useful solutions.
 
 <a href="mailto:gabrielsilvabastosgbs@gmail.com">
 <img src="https://img.shields.io/badge/Email-gabrielsilvabastosgbs%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -419,11 +392,11 @@ Entre as atividades realizadas estão:
 ┌──────────────────────────────────────────────────────────────┐
 │ SYSTEM STATUS : ONLINE                                       │
 │ USER          : GABRIEL SILVA BASTOS                         │
-│ ROLE          : DEVELOPER / CYBERSECURITY ENTHUSIAST         │
-│ MISSION       : DEVELOP • SECURE • ANALYZE • EVOLVE          │
+│ PROFILE       : SYSTEMS DEVELOPMENT / CYBERSECURITY           │
+│ MISSION       : DEVELOP • ANALYZE • SECURE • EVOLVE          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,45:0f172a,100:0891b2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,50:0f172a,100:0891b2&section=footer"/>
 
 </div>
